@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "雨にキッスの花束を",
+  "base_artist": "今井美樹",
+  "createdAt": "2025-12-01T17:40:45.283608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨にキッスの花束を",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/01_雨にキッスの花束を_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨にキッスの花束を",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/02_雨にキッスの花束を_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雨にキッスの花束を",
+      "artist": "今井美樹",
+      "has_synced": false,
+      "path": "select/03_雨にキッスの花束を_今井美樹.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨にキッスの花束を",
+      "artist": "下川みくに",
+      "has_synced": false,
+      "path": "select/04_雨にキッスの花束を_下川みくに.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雨にキッスの花束を",
+      "artist": "中島 愛",
+      "has_synced": false,
+      "path": "select/05_雨にキッスの花束を_中島_愛.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雨にキッスの花束を",
+      "artist": "Shoko Nakagawa",
+      "has_synced": false,
+      "path": "select/06_雨にキッスの花束を_Shoko_Nakagawa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨にキッスの花束を",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_01_雨にキッスの花束を_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "雨にキッスの花束を",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_02_雨にキッスの花束を_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "雨にキッスの花束を",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_03_雨にキッスの花束を_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "雨にキッスの花束を",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_04_雨にキッスの花束を_今井_美樹.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "雨にキッスの花束を",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_05_雨にキッスの花束を_今井_美樹.txt"
+    }
+  ]
+}
